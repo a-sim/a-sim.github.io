@@ -106,14 +106,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Seeking to bring the factory of the future to reality."
   location         : "Belgium"
-  email            :
+  email            : "alejandro.simo@agilaconsulting.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:alejandro.simo@agilaconsulting.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
-      # url: "https://www.linkedin.com/in/asimovesperinas/"
+      url: "https://www.linkedin.com/in/asimovesperinas/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
