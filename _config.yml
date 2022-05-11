@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Simó - Agila Consulting"
+title                    : "Alejandro Simó"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Agila Consulting"
 name                     : "Alejandro Simó"
 description              : "Consultant"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
